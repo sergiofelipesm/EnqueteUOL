@@ -20,3 +20,8 @@ weapps-> AppEnquete->src->META-INF dentro haverá um arquivo "persistence.xml" d
 Após isso acessar pelo navegador:
 http://localhost:8080/AppEnquete/ ou http://localhost:8080/AppEnquete/enquete.xhtml
 caso acesso a primeira url o mesmo ira redireciona-los para enquete.xhtml.
+
+Pendencias:
+ -Opcao 4) Apenas depois de um determinado momento (configurável através de parâmetros de config da aplicação) o resultado poderá ser público.
+ -Opcao 12) Deve ser possível executar o seu aplicativo através de linha de comando;
+
